@@ -10,7 +10,7 @@ Feature Selection for Predicting LoRaWAN Spreading Factor with ML
 Before you begin, ensure you have the following installed:
 
 - [Git](https://git-scm.com/)
-- [Git LFS (Large File Storage)](https://git-lfs.github.com/)
+
 
 ## Cloning the Repository
 
