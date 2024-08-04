@@ -26,9 +26,3 @@ Navigate into the cloned repository:
 
 ```cd LoRaWAN-ML```
 
-3. **Fetch Git LFS Files**:
-If the LFS files are not automatically downloaded, run:
-```git lfs pull```
-
-Alternatively, for better performance with many LFS files, you can use
-```git lfs clone https://github.com/gitgoap/LoRaWAN-ML.git```
