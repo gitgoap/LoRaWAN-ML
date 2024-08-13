@@ -24,7 +24,9 @@ To clone this repository, follow these steps:
 2. **Change Directory**:
 Navigate into the cloned repository:
 
-```cd LoRaWAN-ML```
+```bash
+cd LoRaWAN-ML
+```
 
 ## Original Dataset
 
