@@ -3,13 +3,13 @@
 
 # LoRaWAN-ML
 
-Feature Selection for Predicting LoRaWAN Spreading Factor with ML
+## Title: Feature Selection for Predicting LoRaWAN Spreading Factor with ML
 
 ## Prerequisites
 
-Before you begin, ensure you have the following installed:
+Before you begin, ensure you have the following installed:  **[Git](https://git-scm.com/)**
 
-- [Git](https://git-scm.com/)
+
 
 
 ## Cloning the Repository
