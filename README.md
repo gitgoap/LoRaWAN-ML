@@ -3,7 +3,7 @@
 
 # LoRaWAN-ML
 
-## Title: Feature Selection for Predicting LoRaWAN Spreading Factor with ML
+##  Paper Title: Feature Selection for Predicting LoRaWAN Spreading Factor with ML (available on [IEEE Xplore](https://ieeexplore.ieee.org/document/10983488))
 
 ## Prerequisites
 
@@ -34,4 +34,16 @@ For this project, we utilized the dataset available from the following repositor
 
 [Original Dataset GitHub repo](https://github.com/magonzalezudem/MDPI_LoRaWAN_Dataset_With_Environmental_Variables)
 
-Please refer to this repository for more details about the dataset, including its structure and the environmental variables included.
+
+
+## If you are using this repo code, please cite it as:
+```
+@inproceedings{prakash2025effective,
+  title={Effective Feature Selection for Predicting Spreading Factor with ML in Large LoRaWAN-based Mobile IoT Networks},
+  author={Prakash, Aman and Choudhury, Nikumani and Hazarika, Anakhi and Gorrela, Alekhya},
+  booktitle={2025 National Conference on Communications (NCC)},
+  pages={1--6},
+  year={2025},
+  organization={IEEE}
+}
+```
